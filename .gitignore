@@ -1,0 +1,7 @@
+# 生成物（スクリプトを実行すれば再現できる）
+data/
+output/
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
